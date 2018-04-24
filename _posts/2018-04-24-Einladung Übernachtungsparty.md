@@ -2,7 +2,7 @@
 layout: default
 modal-id: 17
 date: 2018-04-24
-img: Übernachtung2.jpg
+img: Uebernachtung2.jpg
 alt: image-alt
 project-date: Mai 2018
 client: Start Bootstrap
