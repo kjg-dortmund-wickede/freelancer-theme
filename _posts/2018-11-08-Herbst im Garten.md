@@ -2,7 +2,7 @@
 layout: default
 modal-id: 20
 date: 2018-11-08
-img: Gemeindefest.jpg
+img: Garten2018.jpg
 project-date: 2018-10
 client: Start Bootstrap
 category: recent 
