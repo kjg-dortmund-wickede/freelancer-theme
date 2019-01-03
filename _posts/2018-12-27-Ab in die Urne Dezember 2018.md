@@ -2,7 +2,7 @@
 layout: default
 modal-id: 23
 date: 2018-12-27
-img: Backen2018.jpg
+img: Backen2018.JPG
 project-date: 2018-12-14
 client: Start Bootstrap
 category: recent 
