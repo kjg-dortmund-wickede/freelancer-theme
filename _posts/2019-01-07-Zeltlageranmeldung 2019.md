@@ -2,7 +2,7 @@
 layout: default
 modal-id: 25
 date: 2019-01-07
-img: ZLAnmeldung2019.jpg
+img: ZLAnmeldung2019.jpeg
 project-date: 2019-01-06
 client: Start Bootstrap
 category: recent 
