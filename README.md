@@ -12,11 +12,13 @@ Wenn ich einen neuen Post verfassen will muss folgendes erfüllt werden:
 2. Online Post erstellen
 3. Speichern und einen Pull-Request erstellen
 4. Administrator muss dem Post zustimmen
-5. der neue Post erscheint auf der Website
+5. der neue Post erscheint auf der Website  
+Hinweis: Es gibt eine ausführliche Anleitung, wie ein Bild mit einem Post verknüpft wird.  
+ist [hier](https://github.com/kjg-dortmund-wickede/kjg-dortmund-wickede.github.io/blob/master/contributing.md/ "Führt zum contributing") zu finden.
 
  - - - -
  zu 1.:
-selbsterklärend! 
+selbsterklärend!
  - - - -
  zu 2.:
  - in den Ordner `_posts` wechseln
@@ -73,6 +75,15 @@ description: The description of the project
 
 ---
 ```
+### Jekyll läuft nicht
+
+Evtl. bundler und gems neu installieren
+```txt
+rm -rf _site
+gem install bundler
+bundle install
+```
+Dann sollte das 'bundle exec jekyll serve' wieder wie gewohnt funktionieren.
 
 ## Demo
 [Hier](https://kjg-dortmund-wickede.github.io) findet sich das Jekyll Theme in Aktion.
