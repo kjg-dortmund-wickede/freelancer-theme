@@ -2,7 +2,7 @@
 layout: default
 modal-id: 35
 date: 2019-10-26
-img: Kürbis2019_groß.gif
+img: Kürbis2019.jpg
 alt: image-alt
 project-date: 2019-10-11
 client: Start Bootstrap
