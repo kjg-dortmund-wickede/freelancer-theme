@@ -2,7 +2,7 @@
 layout: default
 modal-id: 37
 date: 2020-01-04
-img: Christkindlmarkt2019.jpg
+img: Christkindlemarkt2019.jpg
 alt: image-alt
 project-date: 2019-12-01
 client: Start Bootstrap
