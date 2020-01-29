@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 38
-date: 2020-01-04
+date: 2019-12-15
 img: WWE2019.jpg
 alt: image-alt
 project-date: 2019-12-15
