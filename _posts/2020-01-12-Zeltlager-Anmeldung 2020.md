@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 40
-date: 2020-01-12
+date: 2020-01-05
 img: ZLAnmeldung2020.jpg
 alt: image-alt
 project-date: 2020-01-05
