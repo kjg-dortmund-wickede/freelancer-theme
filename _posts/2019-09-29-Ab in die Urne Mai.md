@@ -6,6 +6,6 @@ img: Garten2019.jpg
 alt: image-alt
 project-date: 2019-05-03
 client: Start Bootstrap
-category: recent
+category: archive
 description: Im Mai haben wir ein Ab in den Garten veranstaltet, zusammen gejätet, umgegraben und anschließend gegrillt.
 ---
