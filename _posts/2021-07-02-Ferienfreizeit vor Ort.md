@@ -2,7 +2,7 @@
 layout: default
 modal-id: 44
 date: 2021-07-02
-img: ZeltlagervorOrt.jpg
+img: Übernachtung.jpg
 project-date: 2021-07-05
 client: Start Bootstrap
 category: recent
